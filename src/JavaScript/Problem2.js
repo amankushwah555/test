@@ -22,7 +22,6 @@ function Problem2(props) {
     //     alert("Enter fruit name please!");
     //     break;
     // }
-
     // const numberInputfromuser = Number.parseInt(
     //   prompt("Enter the no. to check the divisibity of 2 and 3 : ")
     // );
@@ -31,20 +30,20 @@ function Problem2(props) {
     // } else {
     //   alert("Not divivble.");
     // }
-    const items = [
-      {
-        a: "Hello",
-        b: "World",
-        c: 56,
-        d: 5,
-      },
-    ];
+    // const items = [
+    //   {
+    //     a: "Hello",
+    //     b: "World",
+    //     c: 56,
+    //     d: 5,
+    //   },
+    // ];
     // for (let item in items) {
     //   alert(JSON.stringify(items[item]));
     // }
-    for (let item of items) {
-      alert(JSON.stringify(item));
-    }
+    // for (let item of items) {
+    //   alert(JSON.stringify(item));
+    // }
   };
   return (
     <div>
