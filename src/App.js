@@ -2,8 +2,9 @@
 // import Problem2 from "./JavaScript/Problem2";
 // import Problem3 from "./JavaScript/Problem3";
 // import Task from "./JavaScript/Task";
+// import Problem4 from "./JavaScript/Problem4";
 
-import Problem4 from "./JavaScript/Problem4";
+import Problem5 from "./JavaScript/Problem5";
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
       {/* <Problem2 /> */}
       {/* <Problem3 /> */}
       {/* <Task /> */}
-      <Problem4 />
+      {/* <Problem4 /> */}
+      <Problem5 />
     </div>
   );
 }
